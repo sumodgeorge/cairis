@@ -27,3 +27,4 @@ bcrypt>=3.1.6
 python-magic>=0.4.15
 xlsxwriter>=1.2.7
 email_validator>=1.0.5
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
