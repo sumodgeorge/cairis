@@ -4,3 +4,4 @@ codecov
 git+https://github.com/melor/HTTPretty.git@py33
 selenium
 behave
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
